@@ -17,3 +17,4 @@ while True:
  else:
    print('Selection Invalid')
 cos = loc*100+veh*10
+print('The cost is :Rs.',cos)
